@@ -35,7 +35,7 @@
     <ProjectGuid>{5FD1C08D-DB80-480C-A1C6-F0920005CD13}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>skse64_common</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <SccProjectName>SAK</SccProjectName>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>

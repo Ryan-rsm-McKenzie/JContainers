@@ -22,7 +22,7 @@
     <ProjectGuid>{7D8B3C09-A91E-4C14-93AF-059F314C601F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>luajit</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
